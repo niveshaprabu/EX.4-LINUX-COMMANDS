@@ -1,7 +1,7 @@
 # OS EX.4-LINUX-COMMANDS
 # AIM:
 To study and execute the basis of UNIX commands
-
+.
 # software requirements:
 linux operating system.
 
